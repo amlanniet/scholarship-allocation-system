@@ -1,0 +1,15 @@
+id,name,phone,category,cgpa,family_income,attendance,requested,slot
+S01,Aarav Sharma,9810000001,Merit,9.2,600000,95,3,1
+S02,Priya Singh,9810000002,Need,7.8,120000,88,4,1
+S03,Rohan Verma,9810000003,Merit,8.9,450000,91,2,2
+S04,Ananya Gupta,9810000004,Need,8.1,90000,82,5,2
+S05,Kabir Khan,9810000005,Sports,7.5,300000,90,3,3
+S06,Isha Patel,9810000006,Need,8.6,80000,93,4,3
+S07,Vivaan Mehta,9810000007,Merit,9.5,700000,97,5,1
+S08,Diya Nair,9810000008,Sports,7.9,250000,85,2,2
+S09,Arjun Rao,9810000009,Need,7.2,70000,79,3,4
+S10,Meera Iyer,9810000010,Merit,8.8,500000,92,4,4
+S11,Aarav Sharma,9810000001,Merit,9.2,600000,95,3,1
+S12,Tanvi Joshi,9810000012,Need,6.9,60000,70,3,5
+S13,Rahul Das,9810000013,Sports,8.0,200000,89,4,5
+S14,Sneha Reddy,9810000014,Need,8.4,95000,90,3,1
